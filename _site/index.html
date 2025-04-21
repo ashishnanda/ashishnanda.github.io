@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ashish Nanda</title>
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll('a[href^="http"]').forEach(function (link) {
+        const isExternal = link.hostname !== window.location.hostname;
+        if (isExternal) {
+          link.setAttribute("target", "_blank");
+          link.setAttribute("rel", "noopener noreferrer");
+        }
+      });
+    });
+  </script>
+  
+<body>
+  <main>
+    <h1 id="ashish-nanda">Ashish Nanda</h1>
+
+<p>Curious mind. This is my corner of the internet.</p>
+
+<h2 id="socials">Socials</h2>
+
+<p><a href="https://github.com/ashishnanda">GitHub</a> ·
+<a href="mailto:ashishnanda.694@gmail.com">Email</a></p>
+
+<h2 id="books-im-reading">Books I’m Reading</h2>
+
+<ul>
+  <li><a href="https://www.amazon.in/Modern-Classics-Ways-Seeing-Penguin/dp/014103579X">Ways of Seeing</a></li>
+  <li><a href="https://www.amazon.in/Slaughterhouse-Five-Modern-Library-Best-Novels/dp/0440180295">Slaughterhouse-Five</a></li>
+</ul>
+
+  </main>
+</body>
+</html>
