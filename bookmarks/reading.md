@@ -9,7 +9,8 @@ A few things I’ve been enjoying or plan to read:
 
 ## Books
 
-[Deep Work by Cal Newport](https://example.com) . [The Almanack of Naval Ravikant](https://example.com)
+- [Ways of Seeing](https://www.amazon.in/Modern-Classics-Ways-Seeing-Penguin/dp/014103579X)
+- [Slaughterhouse-Five](https://www.amazon.in/Slaughterhouse-Five-Modern-Library-Best-Novels/dp/0440180295)
 
 ## Articles
 
